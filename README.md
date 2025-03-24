@@ -22,3 +22,4 @@ Fix bug in feature X
 Change theme color
 Fix typo in README
 Remove unused imports
+Update configuration
