@@ -23,3 +23,4 @@ Change theme color
 Fix typo in README
 Remove unused imports
 Update configuration
+Refactor core logic
