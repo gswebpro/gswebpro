@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Rewrite function Y
 Update configuration
 Tweak margin and padding
+Change theme color
