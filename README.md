@@ -28,3 +28,4 @@ Clean up codebase
 Improve performance
 Improve logging
 Update API endpoint
+Fix typo in README
